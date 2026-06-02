@@ -10,7 +10,7 @@
 | Happ Mac | `happ-mac.md` | июнь 2026 | создан файл, требуется заполнение |
 | Happ iPhone | `happ-iphone.md` | июнь 2026 | создан файл, требуется заполнение |
 | HeyGen | `heygen.md` | июнь 2026 | актуально |
-| Codex Desktop | `codex.md` | июнь 2026 | создан файл, требуется заполнение |
+| Codex Desktop | `codex.md` | июнь 2026 | актуально |
 | is*hosting | `ishosting.md` | июнь 2026 | создан файл, требуется заполнение |
 | Google TV | `google-tv.md` | июнь 2026 | создан файл, требуется заполнение |
 | Xiaomi TV Box | `xiaomi-tv-box.md` | 3rd Gen / Google TV | создан файл, требуется заполнение |
