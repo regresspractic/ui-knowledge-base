@@ -9,8 +9,8 @@
 | Happ Mac | `happ-mac.md` | 4.8.1 / июнь 2026 | актуально |
 | HeyGen | `heygen.md` | июнь 2026 | актуально |
 | Codex Desktop | `codex.md` | июнь 2026 | актуально |
+| Hiddify Panel | `hiddify-panel.md` | 12.3.3 / июнь 2026 | актуально |
 | Happ iPhone | `happ-iphone.md` | июнь 2026 | создан файл, требуется заполнение |
-| Hiddify Panel | `hiddify-panel.md` | 12.3.3 / июнь 2026 | создан файл, требуется заполнение |
 | Google TV | `google-tv.md` | июнь 2026 | создан файл, требуется заполнение |
 | Xiaomi TV Box | `xiaomi-tv-box.md` | 3rd Gen / Google TV | создан файл, требуется заполнение |
 | Turkish iPhone | `turkish-iphone.md` | iOS 26.x / июнь 2026 | создан файл, требуется заполнение |
@@ -29,10 +29,10 @@
 - Happ Mac
 - HeyGen
 - Codex Desktop
+- Hiddify Panel
 
 Ожидают заполнения:
 - Happ iPhone
-- Hiddify Panel
 - Google TV
 - Xiaomi TV Box
 - Turkish iPhone
